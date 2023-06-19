@@ -1,0 +1,5 @@
+﻿  taskF.cpp
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskF\taskF.cpp(19,14): warning C4101: numI: неиспользованная локальная переменная
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskF\taskF.cpp(92): warning C4715: BinarySearchFirst: значение возвращается не при всех путях выполнения
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskF\taskF.cpp(117): warning C4715: BinarySearchLast: значение возвращается не при всех путях выполнения
+  taskF.vcxproj -> C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\Debug\taskF.exe

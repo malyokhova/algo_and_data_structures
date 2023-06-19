@@ -1,0 +1,5 @@
+﻿  taskD.cpp
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab5\taskD\taskD.cpp(120): warning C4715: Search: значение возвращается не при всех путях выполнения
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab5\taskD\taskD.cpp(342): warning C4715: Prev: значение возвращается не при всех путях выполнения
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab5\taskD\taskD.cpp(307): warning C4715: Next: значение возвращается не при всех путях выполнения
+  taskD.vcxproj -> C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab5\x64\Debug\taskD.exe

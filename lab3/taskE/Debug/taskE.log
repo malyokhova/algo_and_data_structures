@@ -1,0 +1,4 @@
+﻿  taskE.cpp
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskE\taskE.cpp(20,18): warning C4101: current: неиспользованная локальная переменная
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskE\taskE.cpp(23,17): warning C4101: max: неиспользованная локальная переменная
+  taskE.vcxproj -> C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\Debug\taskE.exe

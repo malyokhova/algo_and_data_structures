@@ -1,0 +1,11 @@
+﻿  taskG.cpp
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(21,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(23,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(31,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(32,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(34,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(45,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(58,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(65,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\taskG\taskG.cpp(72,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  taskG.vcxproj -> C:\Users\alyok\Documents\Study\Алгоритмы и структуры данных\lab3\Debug\taskG.exe
